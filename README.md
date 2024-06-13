@@ -21,7 +21,7 @@
 | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=pedrol2b&color=grey&style=flat-square&abbreviated=true" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=pedrokunrath&color=grey&style=flat-square&abbreviated=true" alt="Profile views" />
 </p>
 ## Tecnologias que eu uso no meu dia a dia.
 

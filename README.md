@@ -38,7 +38,4 @@
 <img  algn="center" alt ="" src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 
 </div>
-<div>
-   | ![pedrokunrath git status repo](https://starchart.cc/{pedrokunrath}/{Progruby}.svg) |
-</div>
 

@@ -4,7 +4,6 @@
 - 📚 Estou aprendendo sobre desenvolvimento web com HTML, CSS, JavaScript.
 - 🎯 Meu objetivo é se tornar um desenvolvedor full stack.
 - 📱 Contato: pedro10kunrath@gmail.com
-- 📊 LinkedIn: https://www.linkedin.com/in/pedroheliok
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroheliok/?next=%2F)
@@ -40,6 +39,6 @@
 
 </div>
 <div>
-   | ![pedrokunrath git status repo](https://starchart.cc/{username}/{repo}.svg) |
+   | ![pedrokunrath git status repo](https://starchart.cc/{pedrokunrath}/{Progruby}.svg) |
 </div>
 

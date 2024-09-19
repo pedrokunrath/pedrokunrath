@@ -13,7 +13,7 @@
 
 
 
-| ![pedrokunrath GitHub Stats](https://github-stats-alpha.vercel.app/api?username=pedrokunrath&cc=121212&tc=9e9e9e&ic=D1C4E9&bc=121212) | ![Pedro Bueno's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedrokunrath&hide_border=true&border_radius=0&exclude_days=Sun%2CSat&background=121212&border=121212&stroke=212121&ring=7E57C2&fire=7E57C2&currStreakNum=673AB7&sideNums=9E9E9E&currStreakLabel=D1C4E9&sideLabels=9e9e9e&dates=616161&excludeDaysLabel=424242) |
+| ![pedrokunrath GitHub Stats](https://github-stats-alpha.vercel.app/api?username=pedrokunrath&cc=121212&tc=9e9e9e&ic=D1C4E9&bc=121212) | ![pedro kunrath](https://github-readme-streak-stats.herokuapp.com?user=pedrokunrath&hide_border=true&border_radius=0&exclude_days=Sun%2CSat&background=121212&border=121212&stroke=212121&ring=7E57C2&fire=7E57C2&currStreakNum=673AB7&sideNums=9E9E9E&currStreakLabel=D1C4E9&sideLabels=9e9e9e&dates=616161&excludeDaysLabel=424242) |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
 
 | ![Pedrokunrath GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrokunrath&bg_color=121212&color=9e9e9e&line=D1C4E9&point=9575CD&title_color=9e9e9e&area_color=673AB7&hide_border=true&area=false&radius=0) |
@@ -23,9 +23,8 @@
 <img src="https://komarev.com/ghpvc/?username=pedrokunrath&color=grey&style=flat-square&abbreviated=true" alt="Profile views" />
 </p>
 
-
+## Técnologias que uso no meu dia a dia
 <div style= "display: inline_block"><br/>
-  ## Tecnologias que eu uso no meu dia a dia.
 <img  algn="center" alt =""src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img  algn="center" alt =""src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img  algn="center" alt =""src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -41,6 +40,6 @@
 
 </div>
 <div>
-  <img  algn="center" alt ="" src= "https://github-readme-stats.vercel.app/api/top-langs/?pedrokunrath={pedrokunrath}&theme=blue-green">
+   | ![pedrokunrath git status repo](https://starchart.cc/{username}/{repo}.svg) |
 </div>
 

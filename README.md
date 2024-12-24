@@ -1,8 +1,7 @@
 ## Olá meu nome é Pedro hélio kunrath🖐️
 
 - 🎓 Estou cursando Tecnico em desenvolvimento no SESI-SENAI e Colegio Leonardo da vinci.
-- 📚 Estou aprendendo sobre desenvolvimento web com HTML, CSS, JavaScript.
-- 🎯 Meu objetivo é se tornar um desenvolvedor full stack.
+- 📚 Atualmente estou trabalhando como desenvolvedor full stack na empresa Codengade & Procfy.
 - 📱 Contato: pedro10kunrath@gmail.com
 
 

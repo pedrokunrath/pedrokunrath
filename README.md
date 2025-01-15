@@ -1,7 +1,7 @@
 # Olá, meu nome é Pedro Hélio Kunrath 🖐️  
 
 - 🎓 Estou cursando Técnico em Desenvolvimento no SESI-SENAI e Colégio Leonardo da Vinci.
-- 📚 Atualmente estou trabalhando como desenvolvedor full stack na empresa Codengade & Procfy.
+- 📚 Atualmente estou trabalhando como desenvolvedor full stack na empresa Codengage & Procfy.
 - 📱 Contato: pedro10kunrath@gmail.com  
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroheliok/?next=%2F)  
